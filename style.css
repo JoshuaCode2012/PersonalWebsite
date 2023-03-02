@@ -1,0 +1,58 @@
+body
+{
+	text-align: center;
+	margin: 0;
+	font-size:30px;
+	background: linear-gradient(aqua 0%, blue 100%);
+}
+.Profile
+{
+	border-radius: 50%;
+	width: 499px;
+	margin-top: 50px;
+}
+#welcome
+{
+	
+	height: 100%;
+	width: 100%;
+}
+#name
+{
+	font-size:100px;
+	font-family: 'Shadows Into Light', cursive;
+}
+#bio
+{
+	
+	height: 100%;
+	width: 100%;
+	margin-top: 0;
+}
+.menu{
+	margin-top: 0px;
+	position: fixed;
+	background: rgba(255, 255, 255, 0.873);
+	z-index: 10;
+	width: 100%;
+	cursor: pointer;
+	top: 0px;
+}
+.links{
+	display: inline;
+	padding-left: 33px;
+	padding-right: 25px;
+	font-family: fantasy;
+	font-size: 20px;
+}
+#diva
+{
+	text-decoration: none;
+	font-size: 100px;
+	color: blanchedalmond;
+
+}
+.links:hover{
+	font-size: 25px;
+	text-decoration: underline;
+}
